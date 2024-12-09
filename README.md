@@ -42,9 +42,24 @@
 <br>
 
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-tau-two.vercel.app?user=kimthien128&count_private=true&theme=transparent&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=kimthien128&count_private=true&show_icons=true&theme=transparent &rank_icon=github&border_radius=10" alt="readme stats" />
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimthien128&hide=HTML&langs_count=8&layout=compact&theme=transparent &border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=390 src="https://github-readme-streak-stats-kimthien128.vercel.app?user=kimthien128&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=kimthien128&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kimthien128&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br>
+
+#### Top Repositories
+
+<div align="center">
+    <a href="https://github.com/kimthien128/portfolio">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kimthien128&repo=portfolio&theme=vue-dark" />
+    </a>
+    <a href="https://github.com/kimthien128/kt-timer">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kimthien128&repo=kt-timer&theme=vue-dark" />
+    </a>
 </div>
 
 <br/><br/>
