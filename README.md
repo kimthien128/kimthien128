@@ -54,11 +54,11 @@
 #### Top Repositories
 
 <div align="center">
-    <a href="https://github.com/kimthien128/portfolio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kimthien128&repo=portfolio&theme=vue-dark" />
-    </a>
     <a href="https://github.com/kimthien128/kt-timer">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=kimthien128&repo=kt-timer&theme=vue-dark" />
+    </a>
+    <a href="https://github.com/kimthien128/portfolio">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kimthien128&repo=portfolio&theme=vue-dark" />
     </a>
     <a href="https://github.com/kimthien128/KTshop">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=kimthien128&repo=KTshop&theme=vue-dark" />
