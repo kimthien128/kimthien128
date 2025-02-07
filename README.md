@@ -63,9 +63,6 @@
     <a href="https://github.com/kimthien128/KTshop">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=kimthien128&repo=KTshop&theme=vue-dark" />
     </a>
-    <a https://github.com/kimthien128/web1-23880076">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kimthien128&repo=web1-23880076&theme=vue-dark" />
-    </a>
 </div>
 
 <br/><br/>
