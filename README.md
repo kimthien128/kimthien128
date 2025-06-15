@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I am mainly working with  **C#**
+ 🔭 I am mainly working with  **JS**
  
  🌱 I am eager to learn more programming languages and technologies
 
@@ -31,8 +31,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,javascript,react,nodejs,figma" /><br>
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,github,git" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,javascript,ts,react,materialui,tailwind,figma,ai,ps,pr" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,py,fastapi,dotnet,cs" /><br>
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres,postman,github,git,ubuntu,nginx" />
     <br>
 </div>
 
