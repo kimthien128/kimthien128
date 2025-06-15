@@ -55,9 +55,8 @@
 #### Top Projects
 
 <div align="center">
-    <a href="https://speakup.ktstudio.vn">
-        <img src="https://https://speakup.ktstudio.vn" />
-    </a>
+    [![Giới thiệu ứng dụng Luyện nói Tiếng Anh với AI - KT SpeakUp](https://img.youtube.com/vi/z1AsyJN7SIQ/mqdefault.jpg)](https://youtu.be/z1AsyJN7SIQ)
+    <br>
     <a href="https://github.com/kimthien128/kt-timer">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=kimthien128&repo=kt-timer&theme=vue-dark" />
     </a>
