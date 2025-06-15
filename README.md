@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I am mainly working with  **JS**
+ 🔭 I am mainly working with  **JavaScript**
  
  🌱 I am eager to learn more programming languages and technologies
 
@@ -52,9 +52,12 @@
 
 <br>
 
-#### Top Repositories
+#### Top Projects
 
 <div align="center">
+    <a href="https://speakup.ktstudio.vn">
+        <img src="https://https://speakup.ktstudio.vn" />
+    </a>
     <a href="https://github.com/kimthien128/kt-timer">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=kimthien128&repo=kt-timer&theme=vue-dark" />
     </a>
@@ -64,19 +67,4 @@
     <a href="https://github.com/kimthien128/KTshop">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=kimthien128&repo=KTshop&theme=vue-dark" />
     </a>
-    <a href="https://web1-23880076.onrender.com">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kimthien128&repo=web1-23880076&theme=vue-dark" />
-    </a>
 </div>
-
-<br/><br/>
-
-<hr/>
-
-<br/>
-
-<div align="center">
-<a href='https://ko-fi.com/kimthien128' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-
-<br/>
