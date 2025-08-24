@@ -55,6 +55,8 @@
 #### Top Projects
 
 <div align="center">
+    <a>KT CEP <span>updating...</span></a>
+    <br>
     <a href="https://youtu.be/z1AsyJN7SIQ">
         <img src="https://img.youtube.com/vi/z1AsyJN7SIQ/mqdefault.jpg" alt="Giới thiệu ứng dụng Luyện nói Tiếng Anh với AI - KT SpeakUp"/>
     </a>
