@@ -1,7 +1,7 @@
 # Phiên bản mới nhất
-## v1.1
+## v1.2
 - Truy cập vào https://github.com/kimthien128/kimthien128/releases
-- Tải file: `kt-cep-v1.1.zip`
+- Tải file: `kt-cep-v1.2.zip`
 
 # Hướng dẫn cài đặt
 - Tải file zip, giải nén, bỏ vào  
@@ -13,3 +13,6 @@
 - Phiên bản Pre-release định hướng các chức năng chính
 ## v1.1
 - Fix lỗi khi sử dụng đơn vị khác với đơn vị px
+## v1.2
+- Fix lỗi chức năng thao tác với các layout
+- 
