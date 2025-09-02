@@ -12,6 +12,7 @@
 ### v1.2
 - Fix lỗi chức năng thao tác với các layout
 - Update sizeName khi tạo mới kích thước
+- Fix lỗi lấy đường dẫn các layer
 ### v1.1
 - Fix lỗi khi sử dụng đơn vị khác với đơn vị px
 ### v1.0
