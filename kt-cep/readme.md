@@ -1,14 +1,9 @@
-# Hướng dẫn download
+# 📥 Hướng dẫn download
 ### v1.2
 - Truy cập vào https://github.com/kimthien128/kimthien128/releases
 - Tải file: `kt-cep-v1.2.zip`
 
-# Hướng dẫn cài đặt
-- Tải file zip, giải nén, bỏ vào  
-`Windows x64: C:/Program Files (x86)/Common Files/Adobe/CEP/extensions/`
-- Chạy file `Fix For Windown.REG` để đăng ký với windown (Chỉ cần chạy 1 lần duy nhất, các bản cập nhật tiếp theo không cần chạy lại)
-
-# Thông tin cập nhật phiên bản
+# 📋 Thông tin cập nhật phiên bản
 ### v1.2
 - Fix lỗi chức năng thao tác với các layout
 - Update sizeName khi tạo mới kích thước
@@ -27,12 +22,13 @@ Extension được phát triển trên môi trường Photoshop CC 2019 (Cần k
 
 
 ## 2. 🛠️ Cài Đặt Extension
-1. Đóng Photoshop nếu đang mở.
-2. Chạy file `Fix For Windown.REG` để đăng ký với Windows (nếu chưa thực hiện lần nào).
-3. Copy toàn bộ thư mục `kt-cep` vào đường dẫn:
-	- `C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\`
-4. Mở lại Photoshop.
-5. Vào menu `Window > Extensions (Legacy) > KT CEP` để mở extension.
+1. Tải file zip và giải nén.
+2. Đóng Photoshop nếu đang mở.
+3. Chạy file `Fix For Windown.REG` để đăng ký với Windows (Chỉ cần chạy 1 lần duy nhất, các bản cập nhật tiếp theo không cần chạy lại, áp dụng cho hầu hết các Extension khác trên Internet).
+4. Copy toàn bộ thư mục `kt-cep` vào đường dẫn:
+	- Windows x64: `C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\`
+5. Mở lại Photoshop.
+6. Vào menu `Window > Extensions (Legacy) > KT CEP` để mở extension.
 
 ## 3. 🖥️ Giao Diện Chính
 <img width="312" height="862" alt="image" src="https://github.com/user-attachments/assets/84230c87-b917-4435-86ed-ee739a8648f4" />
@@ -50,7 +46,7 @@ Extension được phát triển trên môi trường Photoshop CC 2019 (Cần k
 - Trong trường hợp gặp lỗi, hãy thử sử dụng nút "Reload" hoặc tắt/bật lại Extension
 <img width="107" height="52" alt="image" src="https://github.com/user-attachments/assets/5e3fc1b9-151e-4762-bd2d-44306b1d9571" />
 
-### 4.2. Các bước bắt buộc thiết lập trước khi sử dụng
+### ⚙️ 4.2. Các bước bắt buộc thiết lập trước khi sử dụng
 #### 4.2.1. Giới hạn group cho phép Extension thao tác
 - Ví dụ mỗi file trong album thiết kế bạn đều có 3 Group: Foreground, Main và Background.
   - <img width="299" height="137" alt="image" src="https://github.com/user-attachments/assets/05a485e3-4532-4d79-b289-e141672cfb8a" />
@@ -72,7 +68,7 @@ Extension được phát triển trên môi trường Photoshop CC 2019 (Cần k
 - Nếu bạn làm cùng 1 khổ giấy, nhưng sử dụng nhiều phong cách design khác nhau, bạn nên đặt tên cho phong cách template đó, nó sẽ có lợi cho việc đề xuất layout sau này.
 <img width="312" height="755" alt="image" src="https://github.com/user-attachments/assets/c6a79e1f-ee41-4d14-a509-68aaf089579d" />
 
-### 4.3. Chức năng chính 
+### ✨ 4.3. Chức năng chính 
 #### 4.3.1. Thao tác với Layer
 <img width="305" height="234" alt="image" src="https://github.com/user-attachments/assets/2f682142-63a6-44db-8027-cc20f4495463" />
 
@@ -146,6 +142,6 @@ Extension được phát triển trên môi trường Photoshop CC 2019 (Cần k
 - Hiển thị thông báo nhanh khi thao tác thành công/thất bại.
 <img width="315" height="303" alt="image" src="https://github.com/user-attachments/assets/ae399f6e-4b71-49a5-8bde-346872b753a8" />
 
-# Bonus: Giải tỏa stress với "Mèo đuổi chuột" (Mèo Neko)
+## 🎁 Bonus: Chơi với mèo trong khi làm việc
 ![Neko](https://github.com/user-attachments/assets/25ff5296-ec80-4d99-82cc-d1c30ed4247c)
-
+Nguồn: Mèo Neko
