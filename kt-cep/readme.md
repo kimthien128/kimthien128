@@ -146,5 +146,6 @@ Extension được phát triển trên môi trường Photoshop CC 2019 (Cần k
 - Hiển thị thông báo nhanh khi thao tác thành công/thất bại.
 <img width="315" height="303" alt="image" src="https://github.com/user-attachments/assets/ae399f6e-4b71-49a5-8bde-346872b753a8" />
 
-### Bonus: Chơi mèo đuổi chuột với Mèo Neko
-<img width="316" height="303" alt="image" src="https://github.com/user-attachments/assets/2c7c3280-3597-4759-8d63-baab00a1cb9a" />
+# Bonus: Giải tỏa stress với "Mèo đuổi chuột" (Mèo Neko)
+![Neko](https://github.com/user-attachments/assets/25ff5296-ec80-4d99-82cc-d1c30ed4247c)
+
