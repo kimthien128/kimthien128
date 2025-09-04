@@ -34,7 +34,7 @@ Extension được phát triển trên môi trường Photoshop CC 2019 (Cần k
 
 ## 4. ⚙️ Các Chức Năng Chính
 
-### 4.1. 💡 Mẹo
+### 4.1. 💡 Mẹo sử dụng
 - Sử dụng phím F1 làm phím tắt đóng/mở extension nhanh.
 <img width="352" height="858" alt="image" src="https://github.com/user-attachments/assets/d04458d1-3711-4442-8814-36c5ee147948" />
 <img width="848" height="701" alt="image" src="https://github.com/user-attachments/assets/f8135c15-0ed5-491d-9188-b53e09c903f6" />
@@ -67,6 +67,8 @@ Extension được phát triển trên môi trường Photoshop CC 2019 (Cần k
 - Nếu bạn làm cùng 1 khổ giấy, nhưng sử dụng nhiều phong cách design khác nhau, bạn nên đặt tên cho phong cách template đó, nó sẽ có lợi cho việc đề xuất layout sau này.
 <img width="312" height="755" alt="image" src="https://github.com/user-attachments/assets/c6a79e1f-ee41-4d14-a509-68aaf089579d" />
 
+- Mỗi khi mở một kiểu album mới, nên sử dụng nút `Vẽ Guide` để vẽ lại các đường guide xem đã thao tác trên đúng loại album đã đặt tên hay chưa.
+
 ### ✨ 4.3. Chức năng chính 
 #### 4.3.1. Thao tác với Layer
 <img width="305" height="234" alt="image" src="https://github.com/user-attachments/assets/2f682142-63a6-44db-8027-cc20f4495463" />
@@ -80,13 +82,13 @@ Extension được phát triển trên môi trường Photoshop CC 2019 (Cần k
   *Điều kiện*: Đã lưu guide cho khổ giấy/sản phẩm đang chọn.
 
   - **Group Left Page**: Gom nhóm các layer thuộc trang trái.  
-  *Điều kiện*: Layer nằm hoàn toàn bên trái (không được đè lên vị trí chính giữa trang dù là 1px).
+  *Điều kiện*: Layer phần lớn nằm bên trái.
 
   - **Ungroup**: Bỏ gom nhóm "Left Group" và "Right Group".  
   *Điều kiện*: File có tồn tại các group này. Các group này sẽ được tạo tự động khi dùng chức năng "Group Left Page" và "Group Right Page".
 
   - **Group Right Page**: Gom nhóm các layer thuộc trang phải.  
-  *Điều kiện*: Layer nằm hoàn toàn bên phải (không được đè lên vị trí chính trang giữa dù là 1px).
+  *Điều kiện*: Layer phần lớn nằm bên phải.
 
   - **Expand Mask to Fit**: Mở rộng mask để vừa với đối tượng.  
   *Điều kiện*: Layer có mask, nằm trong Group Main được cấu hình.
@@ -137,9 +139,6 @@ Extension được phát triển trên môi trường Photoshop CC 2019 (Cần k
 - **Reset Database**: Xóa trống toàn bộ dữ liệu database.
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/44ab42c2-a812-47ea-b1bc-13732324b2a5" />
 
-#### 4.3.4. Toast Notification
-- Hiển thị thông báo nhanh khi thao tác thành công/thất bại.
-<img width="315" height="303" alt="image" src="https://github.com/user-attachments/assets/ae399f6e-4b71-49a5-8bde-346872b753a8" />
 
 ## 🎁 Bonus: Chơi với mèo trong khi làm việc
 ![Neko](https://github.com/user-attachments/assets/25ff5296-ec80-4d99-82cc-d1c30ed4247c)
