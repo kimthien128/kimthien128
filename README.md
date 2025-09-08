@@ -56,7 +56,7 @@
 
 <div align="center">
     <a href="https://github.com/kimthien128/kimthien128/tree/main/kt-cep">
-        <img width="1280" height="720" alt="KT CEP" src="https://github.com/user-attachments/assets/b63f0fee-c177-4bc3-8b06-b8c10bb781ac" />
+        <img width="320" height="100%" alt="KT CEP" src="https://github.com/user-attachments/assets/b63f0fee-c177-4bc3-8b06-b8c10bb781ac" />
     </a>
     <br>
     <a href="https://youtu.be/z1AsyJN7SIQ">
