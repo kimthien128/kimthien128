@@ -55,7 +55,9 @@
 #### Top Projects
 
 <div align="center">
-    <a>KT CEP <span>updating...</span></a>
+    <a href="https://github.com/kimthien128/kimthien128/tree/main/kt-cep">
+        <img width="1280" height="720" alt="KT CEP" src="https://github.com/user-attachments/assets/b63f0fee-c177-4bc3-8b06-b8c10bb781ac" />
+    </a>
     <br>
     <a href="https://youtu.be/z1AsyJN7SIQ">
         <img src="https://img.youtube.com/vi/z1AsyJN7SIQ/mqdefault.jpg" alt="Giới thiệu ứng dụng Luyện nói Tiếng Anh với AI - KT SpeakUp"/>
