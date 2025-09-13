@@ -3,6 +3,15 @@
 - Tìm và tải file zip có phiên bản phát hành mới nhất, ví dụ: `kt-cep-v1.2.zip`
 
 # 📋 Thông tin cập nhật phiên bản
+### v1.4
+- Silent layer reading
+- Fix save Guide
+- Reduce errors caused by file size
+### v1.3
+- Fix transform mapping Layer
+- Show more modal loading
+- Select muti layer
+- Distribute outside main group
 ### v1.2
 - Fix lỗi chức năng thao tác với các layout
 - Update sizeName khi tạo mới kích thước
@@ -142,4 +151,5 @@ Extension được phát triển trên môi trường Photoshop CC 2019 (Cần k
 
 ## 🎁 Bonus: Chơi với mèo trong khi làm việc
 ![Neko](https://github.com/user-attachments/assets/25ff5296-ec80-4d99-82cc-d1c30ed4247c)
+
 Nguồn: Mèo Neko
