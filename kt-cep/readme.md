@@ -1,6 +1,6 @@
 # 📥 Hướng dẫn download
 - Truy cập vào https://github.com/kimthien128/kimthien128/releases
-- Tìm và tải file zip có phiên bản phát hành mới nhất, ví dụ: `kt-cep-v1.2.zip`
+- Tìm và tải file zip có phiên bản phát hành mới nhất, ví dụ: `kt-cep-v1.4.zip`
 
 # 📋 Thông tin cập nhật phiên bản
 ### v1.4
