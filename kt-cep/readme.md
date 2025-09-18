@@ -1,6 +1,7 @@
 # 📥 Hướng dẫn download
-- Truy cập vào https://github.com/kimthien128/kimthien128/releases
-- Tìm và tải file zip có phiên bản phát hành mới nhất, ví dụ: `kt-cep-v1.4.zip`
+- B1. Tải file `Fix For Window.REG` phía trên
+- B2. Truy cập vào https://github.com/kimthien128/kimthien128/releases
+- B3. Tìm và tải file zip có phiên bản phát hành mới nhất, ví dụ: `kt-cep-v1.4.zip`
 
 # 📋 Thông tin cập nhật phiên bản
 ### v1.4
@@ -36,7 +37,7 @@ Extension được phát triển trên môi trường Photoshop CC 2019 (Cần k
 4. Copy toàn bộ thư mục `kt-cep` vào đường dẫn:
 	- Windows x64: `C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\`
 5. Mở lại Photoshop.
-6. Vào menu `Window > Extensions (Legacy) > KT CEP` để mở extension.
+6. Vào menu `Window > Extensions > KT CEP` để mở extension.
 
 ## 3. 🖥️ Giao Diện Chính
 <img width="312" height="862" alt="image" src="https://github.com/user-attachments/assets/84230c87-b917-4435-86ed-ee739a8648f4" />
@@ -44,14 +45,13 @@ Extension được phát triển trên môi trường Photoshop CC 2019 (Cần k
 ## 4. ⚙️ Các Chức Năng Chính
 
 ### 4.1. 💡 Mẹo sử dụng
-- Sử dụng phím F1 làm phím tắt đóng/mở extension nhanh.
-<img width="352" height="858" alt="image" src="https://github.com/user-attachments/assets/d04458d1-3711-4442-8814-36c5ee147948" />
-<img width="848" height="701" alt="image" src="https://github.com/user-attachments/assets/f8135c15-0ed5-491d-9188-b53e09c903f6" />
+- Cài đặt phím F1 làm phím tắt đóng/mở extension nhanh.
+![SetShortcut](https://github.com/user-attachments/assets/8436bdca-9acf-44be-b7e2-bcadaa8832ab)
   
 - Phóng to/ thu nhỏ kích thước Extension phù hợp với không gian làm việc.
-<img width="353" height="978" alt="image" src="https://github.com/user-attachments/assets/865e0863-2369-4db9-bf00-a3fe94413a10" />
+![MinimizeWorkspace](https://github.com/user-attachments/assets/67ee06e1-6f4b-4442-af95-997f04680198)
 
-- Trong trường hợp gặp lỗi, hãy thử sử dụng nút "Reload" hoặc tắt/bật lại Extension
+- Trong trường hợp gặp lỗi, hãy thử sử dụng nút "Reload" hoặc nhấn phím F1 đã cài đặt trước đó để tắt/bật lại Extension
 <img width="107" height="52" alt="image" src="https://github.com/user-attachments/assets/5e3fc1b9-151e-4762-bd2d-44306b1d9571" />
 
 ### ⚙️ 4.2. Các bước bắt buộc thiết lập trước khi sử dụng
@@ -64,9 +64,9 @@ Extension được phát triển trên môi trường Photoshop CC 2019 (Cần k
 
 - Việc giới hạn này giúp tránh việc xử lý toàn bộ các layer trang trí ở Foreground, Background và ngăn chặn ảnh Extension làm sai lệch thiết kế không mong muốn.
 - Thao tác như sau:  
-<img width="312" height="620" alt="image" src="https://github.com/user-attachments/assets/58ad91a3-6ec2-499c-b811-169987d1324d" />
+![SetupAllowGroup](https://github.com/user-attachments/assets/894a2263-8c90-4c19-9cbe-c9a08f6930ff)
 
-- Lưu ý: một số thao tác đơn giản vẫn cho phép thực hiện trên các group nằm ngoài phạm vi Group được giới hạn.
+- *Lưu ý: một số thao tác đơn giản vẫn cho phép thực hiện trên các group nằm ngoài phạm vi Group được giới hạn.*
 
 #### 4.2.2. Đặt tên cho khổ giấy (bắt buộc - để mở khóa các chức năng bên dưới)
 - Nếu bạn làm việc trên nhiều kích thước khổ giấy, việc đặt tên giúp hệ thống quản lý thông tin tốt hơn
@@ -82,14 +82,17 @@ Extension được phát triển trên môi trường Photoshop CC 2019 (Cần k
 #### 4.3.1. Thao tác với Layer
 <img width="305" height="234" alt="image" src="https://github.com/user-attachments/assets/2f682142-63a6-44db-8027-cc20f4495463" />
 
-- Theo thứ tự từ trái qua phải, từ trên xuống dưới:
+- Đây là mô tả các chức năng theo thứ tự từ trái qua phải, từ trên xuống dưới:
 
+- Guide:
   - **Save Guides**: Lưu lại các đường guide hiện tại.  
   *Điều kiện*: Đã mở file và chọn khổ giấy/sản phẩm.
 
   - **Draw Guides**: Vẽ lại các đường guide đã lưu.  
-  *Điều kiện*: Đã lưu guide cho khổ giấy/sản phẩm đang chọn.
+  *Điều kiện*: Đã lưu guide cho khổ giấy/sản phẩm đang chọn.  
+![Guide](https://github.com/user-attachments/assets/f2ecf06d-b9b2-4f82-bcbe-e51a95b2077b)
 
+- Group:
   - **Group Left Page**: Gom nhóm các layer thuộc trang trái.  
   *Điều kiện*: Layer phần lớn nằm bên trái.
 
@@ -97,40 +100,53 @@ Extension được phát triển trên môi trường Photoshop CC 2019 (Cần k
   *Điều kiện*: File có tồn tại các group này. Các group này sẽ được tạo tự động khi dùng chức năng "Group Left Page" và "Group Right Page".
 
   - **Group Right Page**: Gom nhóm các layer thuộc trang phải.  
-  *Điều kiện*: Layer phần lớn nằm bên phải.
+  *Điều kiện*: Layer phần lớn nằm bên phải.  
+![Ungroup](https://github.com/user-attachments/assets/4670e576-a566-412e-adc8-a5491366b0fa)
 
+- Mask:
   - **Expand Mask to Fit**: Mở rộng mask để vừa với đối tượng.  
-  *Điều kiện*: Layer có mask, nằm trong Group Main được cấu hình.
+  *Điều kiện*: Layer có mask, nằm trong Group Main được cấu hình.  
+   Có thể gom nhóm tất cả các layer cần mở rộng mask vào chung group:
+![ExpandMaskToFix](https://github.com/user-attachments/assets/0f0cfe90-24ae-45dd-b297-d54b8508c77e)
+
+   Hoặc có thể nhấn Ctrl và chọn nhiều group:
+![ExpandMaskToFixSelectMuti](https://github.com/user-attachments/assets/f69f8e3e-d071-4bc8-a199-1e3fafbf43e4)
 
   - **Equalize Mask Size**: Điều chỉnh các mask có kích thước bằng nhau.  
   *Điều kiện*: Có nhiều group chứa mask, nằm trong Group Main được cấu hình.
+   Các group ở layer dưới sẽ tham chiếu theo Mask của group nằm ở trên cùng nhất trong danh sách các group được chọn trong bảng Layer.
+   Trong ví dụ bên dưới, `Group 2` sẽ là group gốc được tham chiếu: 
+![EquaMask](https://github.com/user-attachments/assets/c1341897-4d04-4493-b6bf-d737d977db5e)
 
+- Align:
   - **Align Center Left**: Căn giữa các layer trên trang trái.  
   *Điều kiện*: Đã từng lưu guides xác định vùng.
-
   - **Align Center Full Page**: Căn giữa các layer trên toàn trang.  
   *Điều kiện*: Đã từng lưu guides xác định vùng. Áp dụng khi làm album trang đơn.
-
   - **Align Center Right**: Căn giữa các layer trên trang phải.  
-  *Điều kiện*: Đã từng lưu guides xác định vùng.
+  *Điều kiện*: Đã từng lưu guides xác định vùng.  
+![Align](https://github.com/user-attachments/assets/d82205e4-bd88-4c81-a26b-45000a06a568)
 
+- Distribute Spacing:
   - **Distribute Vertical Spacing**: Phân bố khoảng cách dọc giữa các layer theo giá trị nhập (mm).  
   *Điều kiện*: Chọn nhiều Layer hoặc group, nằm trong Group Main được cấu hình.
-
   - **Distribute Horizontal Spacing**: Phân bố khoảng cách ngang giữa các layer theo giá trị nhập (mm).  
-  *Điều kiện*: Chọn nhiều Layer hoặc group, nằm trong Group Main được cấu hình.
+  *Điều kiện*: Chọn nhiều Layer hoặc group, nằm trong Group Main được cấu hình.  
+![Distribute](https://github.com/user-attachments/assets/f9af5b74-4a35-4c99-91da-13a5f878afa8)
 
+- Inset 50%
   - **Inset Top 50%**: Thu nhỏ layer vào 50% từ cạnh trên.  
   *Điều kiện*: Đã có guides xác định cạnh trên.
-
   - **Inset Right 50%**: Thu nhỏ layer vào 50% từ cạnh phải.  
   *Điều kiện*: Đã có guides xác định cạnh phải.
-
   - **Inset Left 50%**: Thu nhỏ layer vào 50% từ cạnh trái.  
   *Điều kiện*: Đã có guides xác định cạnh trái.
-
   - **Inset Bottom 50%**: Thu nhỏ layer vào 50% từ cạnh dưới.  
-  *Điều kiện*: Đã có guides xác định cạnh dưới.
+  *Điều kiện*: Đã có guides xác định cạnh dưới.  
+![Inset](https://github.com/user-attachments/assets/9c77db18-15e9-40cd-bc09-ce079b7b37e4)
+
+#### Combo chuỗi thao tác thường dùng
+![Combo](https://github.com/user-attachments/assets/c550cf0b-a2ea-4a12-b4b5-2863fcf5c3c3)
 
 
 #### 4.3.2. Quản Lý Layout
@@ -140,7 +156,7 @@ Extension được phát triển trên môi trường Photoshop CC 2019 (Cần k
 2. **Delete Layout**: Chọn 1 layout từ khu vực "Layout đề xuất" và xóa.  
 3. **Preview Layout**: Chọn 1 layout từ khu vực "Layout đề xuất" và xem trước bố cục trước khi áp dụng.  
 4. **Apply Layout**: Chọn vào Group chứa Layout mẫu và áp dụng cho các layer.  
-<img width="1920" height="1040" alt="image" src="https://github.com/user-attachments/assets/2537a6b0-8487-4d4a-aae0-ca343d73d506" />
+![Layout](https://github.com/user-attachments/assets/24c013b3-4b0b-4312-a5df-5c692c610110)
 
 
 #### 4.3.3. Quản Lý Dữ Liệu
