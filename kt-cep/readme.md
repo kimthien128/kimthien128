@@ -23,7 +23,7 @@
 - Phiên bản Pre-release định hướng các chức năng chính
 
 # 📦 Hướng Dẫn Sử Dụng Extension KT CEP
-
+***Tip: Muốn xem rõ hình ảnh nào chỉ cần click vào hình ảnh đó*
 ## 1. 🚀 Giới Thiệu
 KT CEP là extension dành cho Adobe Photoshop, giúp tự động hóa các thao tác xử lý layer, layout, và quản lý dữ liệu một cách nhanh chóng, tiện lợi.
 Extension được phát triển trên môi trường Photoshop CC 2019 (Cần kiểm tra khi sử dụng với các phiên bản khác).
