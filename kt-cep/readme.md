@@ -1,7 +1,7 @@
 # 📥 Hướng dẫn download
 - B1. Tải file `Fix For Window.REG` ở thư mục `kt-cep` bên cạnh hoặc [Tại đây](https://github.com/kimthien128/kimthien128/blob/main/kt-cep/Fix%20For%20Windown.REG)
 - B2. Truy cập vào https://github.com/kimthien128/kimthien128/releases
-- B3. Tìm và tải file zip có phiên bản phát hành mới nhất, ví dụ: `kt-cep-v1.4.zip`
+- B3. Tìm và tải file zip có phiên bản phát hành mới nhất, ví dụ: `kt-cep-v1.5.zip`
 
 # 📋 Thông tin cập nhật phiên bản
 ### v1.5
