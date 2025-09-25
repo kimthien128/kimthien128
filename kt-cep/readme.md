@@ -4,6 +4,8 @@
 - B3. Tìm và tải file zip có phiên bản phát hành mới nhất, ví dụ: `kt-cep-v1.4.zip`
 
 # 📋 Thông tin cập nhật phiên bản
+### v1.5
+- Refactor: Pagination for all layout
 ### v1.4
 - Silent layer reading
 - Fix save Guide
