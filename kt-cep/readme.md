@@ -6,6 +6,8 @@
 # 📋 Thông tin cập nhật phiên bản
 ### v1.5
 - Refactor: Pagination for all layout
+- Add zoom control
+- Update suggestion layout
 ### v1.4
 - Silent layer reading
 - Fix save Guide
@@ -42,7 +44,7 @@ Extension được phát triển trên môi trường Photoshop CC 2019 (Cần k
 6. Vào menu `Window > Extensions > KT CEP` để mở extension.
 
 ## 3. 🖥️ Giao Diện Chính
-<img width="312" height="862" alt="image" src="https://github.com/user-attachments/assets/84230c87-b917-4435-86ed-ee739a8648f4" />
+<img width="312" height="831" alt="image" src="https://github.com/user-attachments/assets/cb30f796-767d-42ba-9798-b20601448c81" />
 
 ## 4. ⚙️ Các Chức Năng Chính
 
@@ -152,13 +154,20 @@ Extension được phát triển trên môi trường Photoshop CC 2019 (Cần k
 
 
 #### 4.3.2. Quản Lý Layout
-<img width="313" height="262" alt="image" src="https://github.com/user-attachments/assets/35ac9eed-3010-41b8-83e9-ca564b241b85" />
+<img width="307" height="317" alt="image" src="https://github.com/user-attachments/assets/efaf3f44-a538-4fba-a0c3-36701e7b9526" />
 
 1. **Save Layout**: Lưu trữ thông tin của các layer mask hiện tại.  
 2. **Delete Layout**: Chọn 1 layout từ khu vực "Layout đề xuất" và xóa.  
 3. **Preview Layout**: Chọn 1 layout từ khu vực "Layout đề xuất" và xem trước bố cục trước khi áp dụng.  
-4. **Apply Layout**: Chọn vào Group chứa Layout mẫu và áp dụng cho các layer.  
+4. **Apply Layout**: Chọn vào Group chứa Layout mẫu và áp dụng cho các layer.
+
 ![Layout](https://github.com/user-attachments/assets/24c013b3-4b0b-4312-a5df-5c692c610110)
+
+5. **Pagination**: Xem layout qua các trang, layout sắp xếp theo thứ tự **số lượng mask tăng dần**
+6. **Zoom control**: Phóng to/ thu nhỏ hình ảnh thumbnail layout
+7. **Filter**: Đề xuất những layout phù hợp với file đang được mở bằng từ toàn bộ layout đã của lưu thuộc khổ giấy hiện tại
+   
+![LayoutControl](https://github.com/user-attachments/assets/4dd817aa-6a5a-4b12-ba04-45853eeb9663)
 
 
 #### 4.3.3. Quản Lý Dữ Liệu
