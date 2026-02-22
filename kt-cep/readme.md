@@ -4,6 +4,8 @@
 - B3. Tìm và tải file zip có phiên bản phát hành mới nhất, ví dụ: `kt-cep-v1.5.zip`
 
 # 📋 Thông tin cập nhật phiên bản
+### v1.6
+- Fix: update version & connect Internet
 ### v1.5
 - Refactor: Pagination for all layout
 - Add zoom control
