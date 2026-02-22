@@ -27,7 +27,25 @@
 - Phiên bản Pre-release định hướng các chức năng chính
 
 # 📦 Hướng Dẫn Sử Dụng Extension KT CEP
-***Tip: Muốn xem rõ hình ảnh nào chỉ cần click vào hình ảnh đó*
+***Tip: Muốn xem rõ hình ảnh nào chỉ cần click vào hình ảnh đó*  
+
+## 0. Fix lỗi "Không thể kết nối đến server"
+*Lỗi này chỉ xảy khi khi thực hiện các chức năng cần truy cập lên Internet như: **kích hoạt bản quyền, kiểm tra cập nhật phiên bản phần mềm.***  
+
+<img width="408" height="552" alt="image" src="https://github.com/user-attachments/assets/96a1ba16-6de0-4835-a1f3-6d8a0746ca64" />
+<img width="303" height="487" alt="image" src="https://github.com/user-attachments/assets/5d7fb3e1-889b-4ef5-952f-c367f5ef6908" />
+  
+#### Thực hiện tạm thời tắt tường lửa để extension có thể thực hiện truy cập Internet, sau khi chức năng chạy xong bật lại tường lửa bình thường.  
+  
+<img width="840" height="644" alt="image" src="https://github.com/user-attachments/assets/f6aa367d-3f99-4af8-a9dc-145bf7560f1e" />  
+
+#### Chỉ cần tắt Private network:  
+  
+<img width="769" height="390" alt="image" src="https://github.com/user-attachments/assets/e192ad59-3690-470f-904c-44af8656ff63" />
+
+
+
+
 ## 1. 🚀 Giới Thiệu
 KT CEP là extension dành cho Adobe Photoshop, giúp tự động hóa các thao tác xử lý layer, layout, và quản lý dữ liệu một cách nhanh chóng, tiện lợi.
 Extension được phát triển trên môi trường Photoshop CC 2019 (Cần kiểm tra khi sử dụng với các phiên bản khác).
