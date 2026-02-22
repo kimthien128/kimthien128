@@ -196,7 +196,7 @@ Extension được phát triển trên môi trường Photoshop CC 2019 (Cần k
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/44ab42c2-a812-47ea-b1bc-13732324b2a5" />
 
 
-## 🎁 Bonus: Chơi với mèo trong khi làm việc
+## 🎁 Bonus: Chơi với mèo (Neko) trong khi làm việc
 ![Neko](https://github.com/user-attachments/assets/25ff5296-ec80-4d99-82cc-d1c30ed4247c)
 
-Nguồn: Mèo Neko
+
