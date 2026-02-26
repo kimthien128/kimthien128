@@ -57,8 +57,4 @@
     <a href="https://youtu.be/z1AsyJN7SIQ">
         <img src="https://img.youtube.com/vi/z1AsyJN7SIQ/mqdefault.jpg" alt="Giới thiệu ứng dụng Luyện nói Tiếng Anh với AI - KT SpeakUp"/>
     </a>
-    <br>
-    <a href="https://github.com/kimthien128/kt-timer">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kimthien128&repo=kt-timer&theme=vue-dark" />
-    </a>
 </div>
