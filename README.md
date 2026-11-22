@@ -7,14 +7,6 @@
 <h3 align="center">A passionate software developer from VietNam VN</h3>
 
 <br/>
-
-<div align="center">
- 
- 🔭 I am mainly working with  **JavaScript**
- 
- 🌱 I am eager to learn more programming languages and technologies
-
- </div>
  
 <div align="center"> 
   <a href="mailto:kimthien128@gmail.com">
@@ -35,26 +27,4 @@
     <img src="https://skillicons.dev/icons?i=nodejs,py,fastapi,dotnet,cs" /><br>
     <img src="https://skillicons.dev/icons?i=mongodb,postgres,postman,github,git,ubuntu,nginx" />
     <br>
-</div>
-
-<br/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-kimthien128.vercel.app?user=kimthien128&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-</div>
-
-<br>
-
-#### Top Projects
-
-<div align="center">
-    <a href="https://github.com/kimthien128/kimthien128/tree/main/kt-cep">
-        <img width="320" height="100%" alt="KT CEP" src="https://github.com/user-attachments/assets/b63f0fee-c177-4bc3-8b06-b8c10bb781ac" />
-    </a>
-    <a href="https://youtu.be/z1AsyJN7SIQ">
-        <img src="https://img.youtube.com/vi/z1AsyJN7SIQ/mqdefault.jpg" alt="Giới thiệu ứng dụng Luyện nói Tiếng Anh với AI - KT SpeakUp"/>
-    </a>
 </div>
